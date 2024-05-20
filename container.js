@@ -1,2 +1,2 @@
-var image=document.getElementById("mahesh");
+var image=document.getElementById("");
 console.log(image);
